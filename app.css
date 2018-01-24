@@ -1,0 +1,13 @@
+h1 {
+  font-family: 'Courgette', cursive;
+  font-size:5vw;
+  color:#a0a0a0;
+  text-align:center;
+}
+header {
+  background-color: #92C1FF;
+  background-image:url("surgery.jpg");
+  padding:20vw 2em 10vw 2em;
+  background-position: center bottom;
+  background-size: cover;
+}
